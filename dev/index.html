@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>embed-pivot</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+
+    <script type="module" src="/lib/embed-pivot.js"></script>
+
+    <style>
+      html,
+      body {
+        margin-left: 0;
+      }
+
+      * {
+        font-family: 'Roboto', sans-serif;
+      }
+
+      p {
+        border: solid 1px blue;
+        padding: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <embed-pivot
+      data-pivot-url="https://pivot-interactives-embed.s3-us-west-2.amazonaws.com/illuminate/solution-enthalpy.html"
+      data-width="1200"
+      data-height="800"
+    ></embed-pivot>
+  </body>
+</html>

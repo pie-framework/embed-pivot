@@ -1,0 +1,50 @@
+{
+  "name": "@pie-framework/embed-pivot",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "2.1.0",
+  "repository": "key-data-systems/embed-pivot-support",
+  "description": "embed-pivot",
+  "main": "lib/embed-pivot.js",
+  "module": "lib/embed-pivot.js",
+  "type": "module",
+  "scripts": {
+    "build": "rm -fr lib && esbuild src/embed-pivot.ts --format=esm --outfile=lib/embed-pivot.js --bundle && tsc",
+    "serve": "esbuild src/embed-pivot.ts --format=esm --servedir=. --outfile=lib/embed-pivot.js --bundle",
+    "format": "prettier \"**/*.{cjs,html,js,json,md,ts}\" --ignore-path ./.eslintignore --write",
+    "release": "yarn build && semantic-release"
+  },
+  "keywords": [
+    "web-components",
+    "custom-element",
+    "pie",
+    "print"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "lit": "^2.0.0-rc.3",
+    "lit-html": "^2.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.2.3",
+    "@semantic-release/npm": "^7.1.3",
+    "@semantic-release/release-notes-generator": "^9.0.3",
+    "deepmerge": "^4.2.2",
+    "eslint": "^7.32.0",
+    "esbuild": "^0.12.23",
+    "lit-analyzer": "^1.2.1",
+    "prettier": "^2.3.2",
+    "rimraf": "^3.0.2",
+    "semantic-release": "^17.4.7",
+    "typescript": "^4.4.2",
+    "web-component-analyzer": "^1.1.6"
+  }
+}
