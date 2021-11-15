@@ -5,7 +5,7 @@
     "access": "public"
   },
   "version": "1.0.0",
-  "repository": "key-data-systems/embed-pivot",
+  "repository": "pie-framework/embed-pivot",
   "description": "embed-pivot",
   "main": "lib/embed-pivot.js",
   "module": "lib/embed-pivot.js",
