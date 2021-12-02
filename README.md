@@ -1,13 +1,13 @@
-# Pie Print support
+# Embed pivot
 
-Take a pie item config - render a print friendly ui.
+A very simple custom element that renders a pivot iframe.
+
 
 ### Install
 
 ```shell
 yarn
 ```
-
 
 ### Run
 
@@ -18,7 +18,6 @@ Then go to: http://localhost:8000/dev/
 
 
 ### Release
-
 
 `yarn release`
 
@@ -31,3 +30,8 @@ yarn semantic-release --no-ci
 ```
 
 
+## Usage
+
+```html
+<embed-pivot data-pivot-url="pivot-url-here" data-width="" data-height=""></embed-pivot>
+```
