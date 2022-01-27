@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo page</title>
+    <script
+            type="module"
+            src="https://cdn.jsdelivr.net/npm/@pie-api/pie-api-components/dist/pie-api-components/pie-api-components.esm.js"
+    ></script>
+</head>
+<body>
+<div>
+    <h2>This is a demo page</h2>
+
+    <p>With data-tag</p>
+    <pie-embed
+            data-tag="embed-pivot"
+            data-url="@pie-framework/embed-pivot/lib/embed-pivot.js"
+            data-pivot-url=""
+            data-width="1200"
+            data-height="800"
+    ></pie-embed>
+
+    <p>Without data-tag</p>
+    <embed-pivot
+            data-pivot-url=""
+            data-width="1200"
+            data-height="800"
+    ></embed-pivot>
+
+</div>
+</body>
+</html>
