@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6954b824-bb36-4712-ad1d-9b41986b868b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/embed-pivot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/embed-pivot.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23xLbVA2IaVI0G1RJtGLaWpo6y7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6954b824-bb36-4712-ad1d-9b41986b868b" name="Default Changelist" comment="" />
+      <created>1642670862371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642670862371</updated>
+      <workItem from="1642670865985" duration="3841000" />
+      <workItem from="1642693133690" duration="12000" />
+      <workItem from="1643273005130" duration="93000" />
+      <workItem from="1646305664226" duration="1716000" />
+      <workItem from="1647506754204" duration="992000" />
+      <workItem from="1647945256401" duration="698000" />
+      <workItem from="1650355361038" duration="2985000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: Updated Readme and added demo file">
+      <created>1642687024597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642687024597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: Updated Readme and added demo file" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: Updated Readme and added demo file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="38" key="CommitChangelistDialog2" timestamp="1642687024500">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="243" y="38" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1642687024500" />
+    <state x="100" y="123" width="1308" height="827" key="DiffContextDialog" timestamp="1647946330674">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1308" height="827" key="DiffContextDialog/1680.-367.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1647946330674" />
+    <state x="500" y="171" key="VCS.ChangeListViewerDialog" timestamp="1650359946080">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="500" y="171" key="VCS.ChangeListViewerDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1650359946080" />
+    <state x="340" y="198" key="Vcs.Push.Dialog.v2" timestamp="1642687026168">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="340" y="198" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1642687026168" />
+    <state x="100" y="123" width="1308" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1650360360452">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1308" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1650360360452" />
+    <state x="470" y="240" width="749" height="592" key="find.popup" timestamp="1650359912234">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="470" y="240" width="749" height="592" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1650359912234" />
+  </component>
+</project>
