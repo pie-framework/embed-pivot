@@ -19,6 +19,7 @@ export class EmbedPivot extends LitElement {
     const url = this.getAttribute('data-pivot-url');
     const w = this.getAttribute('data-width') || 600;
     const h = this.getAttribute('data-height') || 600;
+
     if (url) {
       return html`<iframe
         frameborder="0"
