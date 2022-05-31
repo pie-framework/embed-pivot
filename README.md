@@ -44,6 +44,7 @@ yarn semantic-release --no-ci
      data-pivot-url="pivot-url-here"
      data-width=""
      data-height=""
+     data-min-height=""
     ></embed-pivot>
 ```
 OR
@@ -53,7 +54,8 @@ OR
      data-url="@pie-framework/embed-pivot/lib/embed-pivot.js"
      data-pivot-url="pivot-url-here"
      data-width=""
-     data-height="">
+     data-height=""
+     data-min-height="">
      </pie-embed>
 ```
 
