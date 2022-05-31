@@ -111,5 +111,3 @@ workflows:
                 - master
           requires:
             - test
-          context:
-            - org-tokens
