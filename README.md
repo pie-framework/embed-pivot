@@ -35,6 +35,12 @@ yarn semantic-release --no-ci
 | ------------------------ | -----------------------------------------------------------
 | data-url                 | the url to load that contains an element definition
 | data-tag                 | the tag name to use for the newly defined custom element                                                                                                                                                                                              
+| data-height              | OPTIONAL: the height for the video                                                                                                                                                                                              
+| data-width               | OPTIONAL: the width for the video                                                                                                                                                                                              
+| data-min-height          | OPTIONAL: the minimum height for the video                                                                                                                                                                                            
+| data-max-height          | OPTIONAL: the maximum height for the video                                                                                                                                                                                              
+| data-min-width           | OPTIONAL: the minimum width for the video                                                                                                                                                                                              
+| data-max-width           | OPTIONAL: the maximum width for the video                                                                                                                                                                                              
 
 
 ## Usage
@@ -44,6 +50,10 @@ yarn semantic-release --no-ci
      data-pivot-url="pivot-url-here"
      data-width=""
      data-height=""
+      data-min-height=""
+      data-max-height=""
+      data-min-width=""
+      data-max-width=""
     ></embed-pivot>
 ```
 OR
